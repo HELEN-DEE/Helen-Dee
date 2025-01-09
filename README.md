@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects, with a focus on ReactJS and TailwindCSS implementations**
 
-- 📫 How to reach me **helendee12@gmail.com**
+- 📫 How to reach me **helendeee12@gmail.com**
 
 - ⚡ Fun fact **I'm a persistent person interested in growth, I find ways to solve problems and enjoy tech conversations**
 
