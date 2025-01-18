@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋,I'm Helen</h1>
 <h3 align="center">A passionate frontend developer specializing in scalable, responsive web applications. Adept at leveraging modern technologies to create efficient, user-centric solutions. Committed to delivering high-quality interfaces that align with client goals and enhance user experience across all devices</h3>
 
-<p align="left"> <a href="https://twitter.com/oresanyah" target="blank"><img src="https://img.shields.io/twitter/follow/oresanyah?logo=twitter&style=for-the-badge" alt="oresanyah" /></a> </p>
+<p align="left"> <a href="https://x.com/_devHelen" target="blank"><img src="https://img.shields.io/twitter/follow/oresanyah?logo=twitter&style=for-the-badge" alt="devHelen" /></a> </p>
 
 - 🔭 I’m currently working on **web applications involving reactJS and tailwindCSS**
 
