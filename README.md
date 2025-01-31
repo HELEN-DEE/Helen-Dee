@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helen-dee&label=Profile%20views&color=0e75b6&style=flat" alt="helen-dee" /> </p>
 
-<p align="left"> <a href="https://twitter.com/devhelen" target="blank"><img src="https://img.shields.io/twitter/follow/devhelen?logo=twitter&style=for-the-badge" alt="devhelen" /></a> </p>
+<p align="left"> <a href="https://x.com/_devHelen" target="blank"><img src="https://img.shields.io/twitter/follow/devhelen?logo=twitter&style=for-the-badge" alt="devhelen" /></a> </p>
 
 - 🔭 I’m currently working on **web applications involving reactJS,tailwindCSS, NextJS and TS**
 
