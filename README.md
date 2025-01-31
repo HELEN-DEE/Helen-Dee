@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
-- 🤝 I’m looking to collaborate on **open source projects, with a focus on NextJS and TailwindCSS implementation**
+- 🤝 I’m looking to collaborate on **open source projects, with a focus on NextJS and Typescript implementation**
 
 - 📫 How to reach me **helendeee12@gmail.com**
 
